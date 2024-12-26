@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React js, react native, mongodb**
 
-- 📄 Know about my experiences [rojmaharjan.com.np](rojmaharjan.com.np)
+- 📄 Know about my experiences <a href="rojmaharjan.com.np"> [rojmaharjan.com.np](rojmaharjan.com.np)</a>
 
 - 📫 How to reach me **mhjroj78@gmail.com**
 
