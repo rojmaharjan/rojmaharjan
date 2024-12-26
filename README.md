@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;  ">
-  <img align="top" alt="Coding" width="100%" src="https://github.com/rojmaharjan/rojmaharjan/blob/main/image.png">
+  <img align="top" alt="Coding" width="100%" height="200" src="https://github.com/rojmaharjan/rojmaharjan/blob/main/image.png">
 </div>
 
 <br/>
