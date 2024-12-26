@@ -1,5 +1,7 @@
 
-![Coding](image.png)
+<div style="text-align: center;">
+  <img alt="Coding" width="400" src="">
+</div>
 
 <h1 align="center">Hi 👋, I'm Roj Maharjan</h1>
 <h3 align="center">A passionate frontend developer from Chapagaun, Lalitpur in Nepal.</h3>
