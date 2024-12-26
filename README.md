@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-  ![Coding](image.png)
+  <img align="right" alt="Coding" width="400" src="https://github.com/rojmaharjan/rojmaharjan/blob/main/image.png">
 </div>
 
 <h1 align="center">Hi 👋, I'm Roj Maharjan</h1>
