@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React js, react native, mongodb**
 
-- 👨‍💻 All of my projects are available at [rojmaharjan.com.np](rojmaharjan.com.np)
+- 📄 Know about my experiences [rojmaharjan.com.np](rojmaharjan.com.np)
 
 - 📫 How to reach me **mhjroj78@gmail.com**
 
